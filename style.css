@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://www.thebroad.org/sites/default/files/art/koons_tulips.jpg");
+    background-color: #cccccc;
+}   
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+  
+    #str {
+   width: 900px;
+   padding: 20px;
+   height: auto;
+   font-family: sans-serif;
+   font-size: 80px;
+   margin: 200px auto;
+   color: #fff;
+   font-weight: bold;
+   background: #;
+     text-align: center;
+}
