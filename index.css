@@ -1,6 +1,29 @@
 @charset "utf-8";
 /* CSS Document */
 
+
+
+
+
+@font-face {
+    font-family: 'suisse_intlbook';
+    src: url('suisseintl-book-webfont.woff2') format('woff2'),
+         url('suisseintl-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'suisse_intlbold';
+    src: url('suisseintl-bold-webfont.woff2') format('woff2'),
+         url('suisseintl-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -8,13 +31,24 @@ body {
 }
 
 * {
-  font-family: Helvetica, sans-serif;
+  font-family: suisse_intlbold, sans-serif;
   color: #000000;
 }
 
 a {
   text-decoration: none;
   display: inline-block;
+  color: #000000;
+  text-decoration-color: #000000
+
+}
+
+.links {
+  text-decoration: none;
+  color: #000000;
+  text-decoration-color: #000000
+
+
 }
 
 span.bar {
@@ -124,7 +158,7 @@ header .biggie {
 main {
   margin: 15px auto;
   width: 33%;
-  background: #fae500;
+  background: #ffffff;
   border-radius: 5px;
   padding: 3%;
   text-align: center;
@@ -134,6 +168,12 @@ main {
 
   margin-top: 5%;
   font-size: 
+}
+
+footer{
+  background-color: #fae500;
+  padding: 3%;
+
 }
 
 /*
