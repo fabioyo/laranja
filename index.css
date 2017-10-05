@@ -172,7 +172,7 @@ main {
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
     /* For tablets: */
     main {
         margin: 15px auto;
