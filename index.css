@@ -234,10 +234,7 @@ header .biggie {
 }
 
 main {
-  margin-top: 3px auto;
-  margin-left: 15px auto;
-  margin-right: 15px auto;
-  margin-bottom: 15px auto;
+  margin: 3px auto;
   width: 33%;
   background: #ffffff;
   border-radius: 5px;
