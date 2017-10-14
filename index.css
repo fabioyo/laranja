@@ -70,12 +70,12 @@ a {
   display: block;
   width: 50%;
   height: auto;
-  margin: 15px auto;
+  margin: 2px auto;
 }
 
 .imgcontainer{
   height: auto;
-  margin: 15px auto;
+  margin: 2px auto;
   width: 50%;
 }
 
@@ -253,7 +253,7 @@ main {
   display: block;
   width: 85%;
   height: auto;
-  margin: 15px auto;
+  margin: 2px auto;
 }
 
 }
@@ -269,7 +269,7 @@ main {
   display: block;
   width: 65%;
   height: auto;
-  margin: 15px auto;
+  margin: 2px auto;
 }
 }
 
