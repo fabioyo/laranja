@@ -248,6 +248,14 @@ main {
         margin: 15px auto;
         width: 85%;
     }
+    
+    .logo{
+  display: block;
+  width: 85%;
+  height: auto;
+  margin: 15px auto;
+}
+
 }
 
 @media only screen and (max-width: 900px) {
@@ -256,6 +264,13 @@ main {
         margin: 15px auto;
         width: 66%;
     }
+    
+   .logo{
+  display: block;
+  width: 65%;
+  height: auto;
+  margin: 15px auto;
+}
 }
 
 #issue{
