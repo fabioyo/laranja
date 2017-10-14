@@ -234,7 +234,10 @@ header .biggie {
 }
 
 main {
-  margin: 15px auto;
+  margin-top: 3px auto;
+  margin-left: 15px auto;
+  margin-right: 15px auto;
+  margin-bottom: 15px auto;
   width: 33%;
   background: #ffffff;
   border-radius: 5px;
@@ -251,7 +254,7 @@ main {
     
     .logo{
   display: block;
-  width: 85%;
+  width: 100%;
   height: auto;
   margin: 2px auto;
 }
@@ -267,7 +270,7 @@ main {
     
    .logo{
   display: block;
-  width: 65%;
+  width: 85%;
   height: auto;
   margin: 2px auto;
 }
