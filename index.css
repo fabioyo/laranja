@@ -28,6 +28,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #ffffff;
+
 }
 
 * {
@@ -288,7 +289,7 @@ main {
 
   float: right;
   margin-right: 3%;
-  margin-bottom: 8%;
+  margin-top: 3%;
 }
 
 .marquee {
@@ -302,10 +303,8 @@ main {
 
 footer{
   background-color: #fae500;
-  padding-bottom: 10%;
-  padding-top: 3%;
-  padding-right:2% ;
-  padding-left:2%;
+  padding: 2%;
+  overflow: hidden;
 
 }
 
