@@ -56,7 +56,8 @@ a {
 .description{
   font-family: 'suisse_intlbold';
   text-align: left;
-
+  color: #ffffff;
+  margin-bottom: 10%;
 }
 
 .pulse {
@@ -69,7 +70,7 @@ a {
 
 .logo{
   display: block;
-  width: 50%;
+  width: 80%;
   height: auto;
   margin: 2px auto;
 }
@@ -272,7 +273,7 @@ main {
     
    .logo{
   display: block;
-  width: 85%;
+  width: 100%;
   height: auto;
   margin: 2px auto;
 }
